@@ -1,6 +1,6 @@
 a post
 ---
-title: "Your blog post title"
+title: A Title of a Thing
 date: YYYY-MM-DD
 ---
 some more text
