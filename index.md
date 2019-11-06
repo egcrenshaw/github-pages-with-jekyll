@@ -1,3 +1,5 @@
-# Welcome to my blog
+# This is a page
 
-I'm glad you are here. I plan to talk about ...
+## This is a smaller title
+
+Some text.
